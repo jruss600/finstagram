@@ -1,0 +1,31 @@
+header {
+    background-color: #244751;
+    color: #E8FDFF;
+    position: fixed;
+    width: 100%;
+    height: 12vh;
+    top: 0;
+}
+
+header h1 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+main {
+    background-color: white;
+    padding: 16px;
+    margin-top: 12vh;
+}
+
+.post {
+    margin-bottom: 48px;
+}
+
+.post .user-info img {
+    border-radius: 50%;
+}
